@@ -135,3 +135,22 @@ Socket 方式发送
 2020-01-01 17:30:30 开始发送请求：https://hlz.ink/action/comment-to-mail?send=YWC68Ph
 Socket 方式发送
 请求结束
+向 m***hlz.ink 发送邮件成功！
+2020-02-13 00:28:35 开始发送请求：https://hlz.ink/action/comment-to-mail?send=048JWf1
+Socket 方式发送
+请求结束
+2020-02-13 00:28:44 开始发送请求：https://hlz.ink/action/comment-to-mail?send=4NyXBjJ
+Socket 方式发送
+请求结束
+2020-02-13 00:28:48 开始发送请求：https://hlz.ink/action/comment-to-mail?send=k3GfdXK
+Socket 方式发送
+请求结束
+2020-02-13 00:38:16 开始发送请求：https://hlz.ink/action/comment-to-mail?send=ZT8ueFk
+Socket 方式发送
+请求结束
+2020-02-13 00:43:47 开始发送请求：https://hlz.ink/action/comment-to-mail?send=EhbrRkq
+Socket 方式发送
+请求结束
+2020-02-13 00:43:56 开始发送请求：https://hlz.ink/action/comment-to-mail?send=KmQq6bu
+Socket 方式发送
+请求结束
