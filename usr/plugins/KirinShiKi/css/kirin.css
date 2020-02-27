@@ -109,7 +109,6 @@
 }
 
 #bg {
-    background-image: url(https://api.btstu.cn/sjbz/?lx=dongman);
     background-size: cover;
     background-position: right bottom;
     background-repeat: no-repeat;
@@ -193,7 +192,6 @@ aside.col.no-border-xs {
 
 @media screen and (max-width:991px) {
     #bg {
-        background-image: url(https://api.btstu.cn/sjbz/?lx=m_dongman);
         background-position: center center
     }
 }
