@@ -1,4 +1,7 @@
 User-agent: *
 Disallow: /admin/
 Disallow: /install/
+Disallow: /manage/
+Disallow: /usr/
 Disallow: /cross.html
+Disallow: /var/
