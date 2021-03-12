@@ -128,7 +128,7 @@
   // 每次修改后有效期为12h
   function persistTheme(val) {
     //localStorage.setItem('darkTheme', val);
-	document.cookie = "darkTheme=" + val + ";Max-Age=43200;Path=/;SameSite=Strict";
+	document.cookie = "darkTheme=" + val + ";Max-Age=10800;Path=/;SameSite=Strict";
   }
   
   function getCurrentTheme() {
